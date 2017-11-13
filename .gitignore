@@ -1,0 +1,10 @@
+coverage/
+node_modules/
+npm-debug.log
+.nyc_output
+app
+lib_test
+.vscode
+__tests__
+package-lock.json
+.travis.yml
